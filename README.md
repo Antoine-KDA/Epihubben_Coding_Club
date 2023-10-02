@@ -13,6 +13,6 @@ Presenter: Kone
 # Applications 
 
 1- Access existing repository:
-	a - Edit an existing file in a repository 
-	b - Commit a change 
-	c - See the previous version
+a - Edit an existing file in a repository 
+b - Commit a change 
+c - See the previous version
